@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AdaptGauss"]
+	path = AdaptGauss
+	url = https://github.com/mthrun/adaptgauss
+	shallow = true
+	registered = true
+[submodule "DatabionicSwarm"]
+	path = DatabionicSwarm
+	url = https://github.com/mthrun/databionicswarm
+	shallow = true
+	registered = true
+[submodule "DataVisualizations"]
+	path = DataVisualizations
+	url = https://github.com/mthrun/datavisualizations
+	shallow = true
+	registered = true
+[submodule "FCPS"]
+	path = FCPS
+	url = https://github.com/mthrun/fcps
+	shallow = true
+	registered = true
+[submodule "GeneralizedUmatrix"]
+	path = GeneralizedUmatrix
+	url = https://github.com/mthrun/generalizedumatrix
+	shallow = true
+	registered = true
+[submodule "ProjectionBasedClustering"]
+	path = ProjectionBasedClustering
+	url = https://github.com/mthrun/projectionbasedclustering
+	shallow = true
+	registered = true

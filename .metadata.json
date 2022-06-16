@@ -1,0 +1,26 @@
+[
+  {
+    "package": "AdaptGauss",
+    "oncran": true
+  },
+  {
+    "package": "DatabionicSwarm",
+    "oncran": true
+  },
+  {
+    "package": "DataVisualizations",
+    "oncran": true
+  },
+  {
+    "package": "FCPS",
+    "oncran": true
+  },
+  {
+    "package": "GeneralizedUmatrix",
+    "oncran": true
+  },
+  {
+    "package": "ProjectionBasedClustering",
+    "oncran": true
+  }
+]
