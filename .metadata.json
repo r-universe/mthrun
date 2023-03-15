@@ -1,5 +1,13 @@
 [
   {
+    "package": "AdaptGauss",
+    "oncran": true
+  },
+  {
+    "package": "DatabionicSwarm",
+    "oncran": true
+  },
+  {
     "package": "DataVisualizations",
     "oncran": true
   },
@@ -8,19 +16,11 @@
     "oncran": true
   },
   {
-    "package": "DatabionicSwarm",
-    "oncran": true
-  },
-  {
     "package": "GeneralizedUmatrix",
     "oncran": true
   },
   {
     "package": "ProjectionBasedClustering",
-    "oncran": true
-  },
-  {
-    "package": "AdaptGauss",
     "oncran": true
   }
 ]
