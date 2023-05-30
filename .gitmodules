@@ -33,3 +33,8 @@
 	url = https://github.com/mthrun/projectionbasedclustering
 	shallow = true
 	registered = true
+[submodule "ScatterDensity"]
+	path = ScatterDensity
+	url = https://github.com/mthrun/scatterdensity
+	shallow = true
+	registered = true
