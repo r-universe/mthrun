@@ -5,12 +5,12 @@
 [submodule "AdaptGauss"]
 	path = AdaptGauss
 	url = https://github.com/mthrun/adaptgauss
-[submodule "DatabionicSwarm"]
-	path = DatabionicSwarm
-	url = https://github.com/mthrun/databionicswarm
 [submodule "DataVisualizations"]
 	path = DataVisualizations
 	url = https://github.com/mthrun/datavisualizations
+[submodule "DatabionicSwarm"]
+	path = DatabionicSwarm
+	url = https://github.com/mthrun/databionicswarm
 [submodule "FCPS"]
 	path = FCPS
 	url = https://github.com/mthrun/fcps
