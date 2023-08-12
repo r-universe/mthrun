@@ -5,6 +5,9 @@
 [submodule "AdaptGauss"]
 	path = AdaptGauss
 	url = https://github.com/mthrun/adaptgauss
+[submodule "DRquality"]
+	path = DRquality
+	url = https://github.com/mthrun/drquality
 [submodule "DataVisualizations"]
 	path = DataVisualizations
 	url = https://github.com/mthrun/datavisualizations
