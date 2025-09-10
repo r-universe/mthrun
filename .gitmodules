@@ -26,3 +26,6 @@
 [submodule "ScatterDensity"]
 	path = ScatterDensity
 	url = https://github.com/mthrun/scatterdensity
+[submodule "memshare"]
+	path = memshare
+	url = https://github.com/mthrun/memshare
