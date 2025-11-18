@@ -20,6 +20,9 @@
 [submodule "GeneralizedUmatrix"]
 	path = GeneralizedUmatrix
 	url = https://github.com/mthrun/generalizedumatrix
+[submodule "PDEnaiveBayes"]
+	path = PDEnaiveBayes
+	url = https://github.com/mthrun/pdebayes
 [submodule "ProjectionBasedClustering"]
 	path = ProjectionBasedClustering
 	url = https://github.com/mthrun/projectionbasedclustering
